@@ -9,4 +9,4 @@ number = int(input("Enter the number to find the factors: "))
 
 # Call the function with the user input
 find_factors(number) #
-I am a good boy.
+
